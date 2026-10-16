@@ -221,4 +221,4 @@ The game receives regular updates, introducing new content, monsters, and events
 Embark on your adventure today! **Download Summoners War: Sky Arena for free** and start summoning your favorite monsters now!
 
 ---
-**Last updated:** 2026-10-16 10:40:59 UTC
+**Last updated:** 2026-10-16 15:11:07 UTC
